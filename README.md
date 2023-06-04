@@ -1,1 +1,2 @@
 # Ball.py-API
+This is a project created for ThriveDX. It is a work in progress fullstack application that demonstates the use of Python, Flask, Venv, Templates, SQL_Alchemy, and Application Factories. The website will hold data and allow the user to view different (baller) reptiles and leave interesting facts about them. 
